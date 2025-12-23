@@ -1,9 +1,9 @@
 ReadMe: 
+
 Codes and Data for 
 “Force of Attraction and Partner Availability in the US Marriage Market: A Two-Sided Matching Model” by Yuan Cheng, John K. Dagsvik, Xuehui Han, and Zhiyang Jia, Sociological Science, forthcoming. 
 
 Download all code and data files into your working folder, and update the file paths in all code files accordingly.
-
 
 Program 1 Clean data for 2010 usa_00001
 Program 1 Clean data for 2019 usa_00002 
